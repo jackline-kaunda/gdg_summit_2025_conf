@@ -21,14 +21,11 @@
  * For data tables, use `csv` code sections, `json` code sections, or |Markdown tables|.
  */
 export const context = `
-Welcome to Friendly Conf!
+Welcome to GDG Summit 2025!
 
-We are a community run groups of enthusiasts running a first hybrid event.
-You may join any session in person, or virtually through our live stream or gen AI powered VR app.
-
-To accommodate our global audience, we'll have mix of live-streamed sessions from our global community, that you can view in the Lounge.
-
-Supported tags: Keynote, GenAI, Android, Cloud, Firebase, Moonshots, Security, Web, Collaboration
+The SSA GDG Summit 2025 is a two-day event designed specifically for Google Developer Group (GDG) leads from across the Sub-Saharan Africa region. 
+This event provides a focused environment for all leads to connect with peers, participate in valuable learning sessions, and collaboratively strategize 
+on how to effectively grow and nurture the developer ecosystem within their local communities and the region as a whole.
 
 Here are our **40** sessions (each one takes 30 minutes):
 
@@ -37,7 +34,7 @@ Time: 9:00
 Location: Amphitheater
 Abstract:
 
-This year's Friendly Conf is all about pushing boundaries and unlocking new possibilities. We'll delve into the **transformative** power of generative AI, explore the evolving landscapes of web and mobile experiences, and unveil groundbreaking advancements in cloud technology.
+This year's GDG Summit is all about pushing boundaries and unlocking new possibilities. We'll delve into the **transformative** power of generative AI, explore the evolving landscapes of web and mobile experiences, and unveil groundbreaking advancements in cloud technology.
 
 ## The Next Generation of Mobile Apps
 Tags: GenAI, Android, Firebase
